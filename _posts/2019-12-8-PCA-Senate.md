@@ -9,18 +9,6 @@ mathjax: "true"
 ---
 
 
-### Principle Component Analysis of US Senators Based on Voting Patterns
-&nbsp;
-
-We perform principle component analysis (PCA) on US Senate voting patterns to identify clusters in US Senators. We'll use the voting history to compare the polarisation in American politics for the years 2012 to 2016.
-&nbsp;
-
-We use PCA on the voting records to reduce their dimensionality to 2D in order to visualise voting patterns. For more information on PCA, I suggest reading [this great blog post by Matt Brems](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c?gi=de80317e8307) on the subject.
-&nbsp;
-
-The voting records are downloaded from [Voteview](https://voteview.com/data).
-
-
 ```python
 # import relevant libraries
 import csv, os, re, math
