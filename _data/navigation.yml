@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-   - title: "CV"
-     url: https://drive.google.com/uc?export=download&id=1H80zQmRAqAIV-KhI2oEr2y6Cz69_3AXr
+  - title: "CV"
+    url: https://drive.google.com/uc?export=download&id=1H80zQmRAqAIV-KhI2oEr2y6Cz69_3AXr
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
