@@ -24,3 +24,15 @@ I perform principle component analysis on US Senate voting patterns to identify 
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/senate_clusters.jpg" alt="senate clusters">
 
+### [Predicting Vorticity from Temperature and Kinetic Energy Sattelite Data using Convolutional Neural Networks](https://nbviewer.jupyter.org/github/moe9195/OceanData/blob/master/report.ipynb)
+
+I implement a convolutional neural network which takes an input 75x75 grid of temperature or kinetic energy readings and predicts the vorticity in those regions.
+
+The dataset used to train the network consists of CMEMS data from 1993 to 2016 of various oceans. Each 600x600 grid of data was split into 64 75x75 grids where each pixel represents 1/12 degrees as shown in the image below. The neural network is able to accurately predict regions of high vorticity from kinetic energy and temperature data.
+
+
+ <img src="{{ site.url }}{{ site.baseurl }}/images/vorticity.jpg" alt="vorticity prediction">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/ocean_loss.jpg" alt="loss plots">
+ 
+ 
+
