@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Data Science and Machine Learning Projects"
+date: 2019-12-09
+tags: [data science, machine learning, deep learning, neural networks]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/data_science_background.webp"
+excerpt: "Data Science, Machine Learning, Deep Learning, Neural Networks"
 mathjax: "true"
 ---
 
