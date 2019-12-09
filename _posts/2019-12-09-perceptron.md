@@ -8,24 +8,13 @@ excerpt: "Data Science, Machine Learning, Deep Learning, Neural Networks"
 mathjax: "true"
 ---
 
-# H1 Heading
 
-## H2 Heading
+## A collection of various data science and machine learning projects that I've previously worked on.
 
-### H3 Heading
+### [Diagnosing Pneumonia using Chest X-Ray Images](https://nbviewer.jupyter.org/github/moe9195/Machine-Learning-Projects/blob/master/chest_xray.ipynb)
 
-Here's some basic text.
+Using chest x-ray images to diagnose pneumonia using convolutional neural networks. I implement a neural network with five hidden convolutional layers followed by a fully connected layer, which I train on 5638 labelled x-ray images. The model is then tested on a test set and had an accuracy of 84.48% 
 
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
 
 Here's a numbered list:
 1. First
