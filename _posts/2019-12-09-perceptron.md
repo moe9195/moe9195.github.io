@@ -22,5 +22,5 @@ Using chest x-ray images to diagnose pneumonia using convolutional neural networ
 
 I perform principle component analysis on US Senate voting patterns to identify clusters amongst US Senators. The voting history is used to compare polarization in US politics for the years 1993 to 2016. Despite the analysis being based only on roll call votes and not policy positions, clear clusters emerge from the voting data. The trend towards more polarization in Congress over the past few decades naturally forms from this analysis. Moreover, the analysis is very successful at highlighting outliers and swing voters.
 
- <img src="{{ site.url }}{{ site.url }}/images/senate_clusters.jpg" alt="senate clusters">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/senate_clusters.jpg" alt="senate clusters">
 
