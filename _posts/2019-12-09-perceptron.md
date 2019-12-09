@@ -16,31 +16,7 @@ mathjax: "true"
 Using chest x-ray images to diagnose pneumonia using convolutional neural networks. I implement a neural network with five hidden convolutional layers followed by a fully connected layer, which I train on 5638 labelled x-ray images. The model is then tested on a test set and had an accuracy of 84.48% 
 
 
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
+<img src="{{ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia }}{{ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia }}/images/xray.png" alt="linearly separable data">
 
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
