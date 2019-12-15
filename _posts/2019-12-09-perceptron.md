@@ -4,7 +4,7 @@ date: 2019-12-09
 tags: [data science, machine learning, deep learning, neural networks]
 header:
   image: "/images/data_science_background.jpg"
-excerpt: "Data Science, Machine Learning, Deep Learning, Neural Networks"
+excerpt: "A collection of various data science and machine learning projects that I’ve previously worked on."
 mathjax: "true"
 ---
 
