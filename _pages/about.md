@@ -1,8 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/cat2.jpg"
 ---
 
 Hi! I am Mohammad Rahmeh, but most just call me Moe.
