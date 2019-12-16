@@ -34,7 +34,7 @@ The dataset used to train the network consists of CMEMS data from 1993 to 2016 o
  <img src="{{ site.url }}{{ site.baseurl }}/images/vorticity.jpg" alt="vorticity prediction">
  <img src="{{ site.url }}{{ site.baseurl }}/images/ocean_loss.jpg" alt="loss plots">
  
- ### [Student Performance Exploratory Data Analysis and Visualisation](https://nbviewer.jupyter.org/github/moe9195/Machine-Learning-Projects/blob/master/exam_performance.ipynb)
+### [Student Performance Exploratory Data Analysis and Visualisation](https://nbviewer.jupyter.org/github/moe9195/Machine-Learning-Projects/blob/master/exam_performance.ipynb)
  
 I use generated data, which includes scores from three exams and a variety of socio-economic factors to understand how these factors impact students performance.  
 
