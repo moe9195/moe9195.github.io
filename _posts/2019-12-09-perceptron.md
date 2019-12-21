@@ -41,3 +41,17 @@ I use generated data, which includes scores from three exams and a variety of so
 From the data, I am able to determine which variables have the largest impact in predicting whether a student is going to pass or fail.
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/exams.png" alt="vorticity prediction">
+ 
+ 
+ 
+### [Training MobileNet on the Fruits-360 Dataset](https://nbviewer.jupyter.org/github/moe9195/Machine-Learning-Projects/blob/master/fruits.ipynb)
+
+I train the [MobileNetV2](https://arxiv.org/abs/1801.04381) network on the Fruits-360 Dataset. The [dataset](https://github.com/Horea94/Fruit-Images-Dataset) consists of 82213 images of 120 fruits and vegetables split into Training and Test sets. 
+
+The trained network is able to achieve an accuracy of 99.1% within 50 epochs.
+
+ <img src="{{ site.url }}{{ site.baseurl }}/images/fruits1.png" alt="class distribution">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/fruits2.png" alt="fruits">
+ 
+ 
+
