@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-Hi! I am Mohammad Rahmeh, but most just call me Moe.
+Hi! I am Mohammad Rahmeh.
 
 I originally studied Physics to a BSc level at the American University of Beirut. In 2017, I moved to the United Kingdom to pursue a Masters in Materials Science from the University of Nottingham. After graduation, I moved into the machine learning field.
 
