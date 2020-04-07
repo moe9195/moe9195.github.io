@@ -1,7 +1,6 @@
 ---
 title: "Data Science and Machine Learning Projects"
-date: 2019-12-09
-tags: [data science, machine learning, deep learning, neural networks]
+date: 2020-04-07
 header:
   image: "/images/data_science_background.jpg"
 excerpt: "A collection of various data science and machine learning projects that I’ve previously worked on."
