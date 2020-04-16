@@ -10,9 +10,10 @@ mathjax: "true"
 
 ## A collection of various data science and machine learning projects that I've previously worked on.
 
-### [Covid-19 Data Dashboard](https://moe9195.github.io/dashboard/)
+### [Covid-19 Data Dashboard](https://moe9195.github.io/corona/)
 Data Dashboard for visualising COVID-19 cases, with a focus on the Middle East and North Africa region. Uses [this API](https://github.com/backtrackbaba/covid-api) which uses the dataset by John Hopkins University. Data is updated daily.
-<img src="{{ site.url }}{{ site.baseurl }}/images/dashboard.png" alt="COVID-19 DASHBOARD">
+<img src="{{ site.url }}{{ site.baseurl }}/images/corona.png" alt="COVID-19 DASHBOARD">
+
 ### [Diagnosing Pneumonia using Chest X-Ray Images](https://nbviewer.jupyter.org/github/moe9195/Machine-Learning-Projects/blob/master/chest_xray.ipynb)
 
 Using chest x-ray images to diagnose pneumonia using convolutional neural networks. I implement a neural network with five hidden convolutional layers followed by a fully connected layer, which I train on 5638 labelled x-ray images. The model is then tested on a test set and had an accuracy of 84.48% 
