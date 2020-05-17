@@ -60,6 +60,9 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+gems:
+  - jekyll-redirect-from
+
 # Social Sharing
 twitter:
   username               :
